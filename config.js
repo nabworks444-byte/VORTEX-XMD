@@ -15,21 +15,21 @@ module.exports = {
     //           OWNER
     // ==============================
     OWNER_NUMBER: process.env.OWNER_NUMBER || "",
-    OWNER_NAME: process.env.OWNER_NAME || "HansTech",
-    DEV: process.env.DEV || "255760774888",
+    OWNER_NAME: process.env.OWNER_NAME || "𓁩Mr NͪAͣBͨᵏꦃͤꦿͬ💔༒⃟۝⃟⁩〠🧍🏾‍♂️🜲⁩",
+    DEV: process.env.DEV || "27799191911",
 
     // ==============================
     //         ANTI CALL
     // ==============================
     ANTI_CALL: process.env.ANTI_CALL || "false", // "true" = Warn only, no block
     ANTI_CALL_BLOCK: process.env.ANTI_CALL_BLOCK || "false", // "true" = 5 warnings then block
-    AUTO_BLOCK: process.envAUTO_BLOCK || "false",
+    AUTO_BLOCK: process.envAUTO_BLOCK || "true",
     // ==============================
     //            MODE
     // ==============================
     MODE: process.env.MODE || "public",
     PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
-    ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
+    ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
     AUTO_BIO: process.env.AUTO_BIO || "false",
 
     // ==============================
@@ -44,7 +44,7 @@ module.exports = {
     ANTI_DELETE: process.env.ANTI_DELETE || "false",
     ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "some",
     READ_MESSAGE: process.env.READ_MESSAGE || "false",
-    AUTO_REACT: process.env.AUTO_REACT || "false",
+    AUTO_REACT: process.env.AUTO_REACT || "true",
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
     AUTO_TYPING: process.env.AUTO_TYPING || "false",
     READ_CMD: process.env.READ_CMD || "false",
@@ -58,7 +58,7 @@ module.exports = {
     ANTI_LINK: process.env.ANTI_LINK || "false",
     ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "false",
     ANTI_BAD: process.env.ANTI_BAD || "false",
-    DELETE_LINKS: process.env.DELETE_LINKS || "false",
+    DELETE_LINKS: process.env.DELETE_LINKS || "true",
     MENTION_REPLY: process.env.MENTION_REPLY || "false",
 
     // ==============================
@@ -74,11 +74,11 @@ module.exports = {
     // ==============================
     MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/di5kdx.jpg",
     PREFIX: process.env.PREFIX || ".",
-    BOT_NAME: process.env.BOT_NAME || "𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃",
+    BOT_NAME: process.env.BOT_NAME || "𓁩nab-bot༒⃟۝⃟⁩〠🜲⁩",
     STICKER_NAME: process.env.STICKER_NAME || "𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/di5kdx.jpg",
-    LIVE_MSG: process.env.LIVE_MSG || "> 𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃⚡ IS ALIVE",
-    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ HansTech*",
+    LIVE_MSG: process.env.LIVE_MSG || "> 𓁩nab-bot༒⃟۝⃟⁩〠🜲⚡ IS ALIVE",
+    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓁩Mr NͪAͣBͨᵏꦃͤꦿͬ💔༒⃟۝⃟⁩〠🧍🏾‍♂️🜲⁩*",
 
     // ==============================
     //         REACTIONS
